@@ -1,5 +1,5 @@
-👶🏻 New Zealand Births and Deaths Analysis
-Project Overview
+### 👶🏻 New Zealand Births and Deaths Analysis
+## Project Overview
 This project analyzes birth and death statistics in New Zealand to understand demographic trends, seasonal patterns, and regional variations. The analysis explores how these vital statistics have changed over time and identifies key factors influencing population dynamics.
 Key Questions
 
